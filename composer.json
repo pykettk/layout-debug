@@ -7,8 +7,7 @@
     "authors": [
         {
             "name": "Kiel Pykett",
-            "email": "pykettk@gmail.com",
-            "role": "Developer"
+            "email": "pykettk@gmail.com"
         }
     ],
     "autoload": {
