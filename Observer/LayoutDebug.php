@@ -1,5 +1,5 @@
 <?php
-namespace PykettK\LayoutDebug\Observer;
+namespace Element119\LayoutDebug\Observer;
 
 use Magento\Framework\Event\Observer;
 use Magento\Framework\Event\ObserverInterface;

@@ -1,8 +1,8 @@
 {
-    "name": "pykettk/layout-debug",
+    "name": "element119/layout-debug",
     "description": "Magento 2 module to help debug layout files.",
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "proprietary",
     "authors": [
         {
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "PykettK\\LayoutDebug\\": ""
+            "Element119\\LayoutDebug\\": ""
         }
     }
 }
